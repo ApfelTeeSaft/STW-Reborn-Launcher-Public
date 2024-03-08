@@ -14,3 +14,5 @@
 - also replace both the curl and custom paks in "Home.xaml.cs"
 - make sure to use my launcher backend [here](https://github.com/ApfelTeeSaft/STW-Reborn-Launcher-Backend-Public)
 - and join my [Discord!](https://discord.gg/prBnJaThgR)
+
+# If ur using it, make sure to credit me!
